@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.2",
+  "packages": [
+    {
+      "name": "SublHandler",
+      "description": "The description of your package",
+      "author": "Maurice Lam",
+      "homepage": "https://github.com/mauricelam/subl",
+      "last_modified": "2013-07-22 22:07:30",
+      "platforms": {
+        "osx": [
+          {
+            "version": "1.0",
+            "url": "https://nodeload.github.com/mauricelam/your_repository_name/zip/master"
+          }
+        ]
+      }
+    }
+  ]
+}
