@@ -24,6 +24,6 @@ try:
         pass
 except IOError:
     # On first run
-    RegisterSublHandlerCommand().run()
+    RegisterSublHandlerCommand().on_settings_change()
     with open('urlregister', 'w') as f:
         f.write('yes')
