@@ -11,7 +11,7 @@
         "osx": [
           {
             "version": "1.1",
-            "url": "https://nodeload.github.com/mauricelam/subl-handler-plugin/zip/master"
+            "url": "https://github.com/mauricelam/subl-handler-plugin/zipball/master"
           }
         ]
       }
