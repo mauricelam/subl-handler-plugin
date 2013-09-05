@@ -3,15 +3,15 @@
   "packages": [
     {
       "name": "SublHandler",
-      "description": "The description of your package",
+      "description": "Handler for subl:// protocol on OSX",
       "author": "Maurice Lam",
-      "homepage": "https://github.com/mauricelam/subl",
-      "last_modified": "2013-07-22 22:07:30",
+      "homepage": "https://github.com/mauricelam/subl-handler-plugin",
+      "last_modified": "2013-09-05 13:39:30",
       "platforms": {
         "osx": [
           {
             "version": "1.0",
-            "url": "https://nodeload.github.com/mauricelam/your_repository_name/zip/master"
+            "url": "https://nodeload.github.com/mauricelam/subl-handler-plugin/zip/master"
           }
         ]
       }
